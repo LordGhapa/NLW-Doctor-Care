@@ -21,10 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
+- [ScrollReveal](https://scrollrevealjs.org/)
 
 ## 💻 Projeto
 
-Exemplo de Landing Page para Uma Clinica Medica
+Exemplo de Landing Page para Uma Clinica Medica usando Html,Css,JavaScript e a biblioteca ScrollReveal para algumas animações
 
 - [Acesse o projeto finalizado, online]( https://lordghapa.github.io/NLW-Doctor-Care/)
 
